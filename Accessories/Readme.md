@@ -19,3 +19,20 @@ https://makerworld.com/en/models/1153538-gpd-pocket-4-joycon-case#profileId-1158
   <img src="photos/djpm05_joycon2.jpg" width="300" />
   <img src="photos/djpm05_joycon1.jpg" width="300" /> 
 </p>
+
+## Screen Protectors
+
+### Matte
+
+#### - [Three One anti-reflective screen protector](https://amzn.asia/d/bBDuFRD)
+[TaciturnKilgore on Reddit](https://www.reddit.com/r/GPDPocket/comments/1ip4gm4/pocket_4_matte_screenprotector_available/):
+> I got a Three One anti-reflective screen protector as a gift with my Pocket 4. 
+It is matte, has a camera notch, and doesn't produce any rainbowing.
+(I am in Japan, sorry if it's not available where you are)
+
+#### - [magglass Tempered Glass Designed for Lenovo Legion Go Matte Screen Protector 8.8"](https://www.amazon.com/dp/B0CNV3ZS2V) 
+
+> [!WARNING]
+> Fits but the camera notch will be wrong
+
+I've used this personally. It looks great but you'll have to live with the camera notch being in the wrong possition
