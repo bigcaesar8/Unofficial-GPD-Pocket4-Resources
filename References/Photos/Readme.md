@@ -11,8 +11,8 @@ credit: gpd
 ### Scans
 <img src="bottom.jpg" width="300" />
 <p float="left">
-  <img src="back.jpg" width="300" /> 
   <img src="left_side.jpg" width="300" />
+  <img src="back.jpg" width="300" /> 
   <img src="right_side.jpg" width="300" />
 </p>
 credit: djpm05 on GPD's discord
