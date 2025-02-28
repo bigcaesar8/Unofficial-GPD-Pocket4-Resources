@@ -7,6 +7,7 @@
 Used to attach the BSP_D8 controllers to the Pocket4. Included in this directory
 <br>
 Credit: Zerious_Zebra on GPD Discord
+<br>
 <img src="Zerious_zebra's BSP-D8 adapter/V1/v1_action.jpg" width="300" />
 
 ### djpm05's Joycon case
