@@ -1,10 +1,22 @@
 # Reference Photos
-<img src="Promo_open.png"/>
-<img src="Promo_sides.png"/>
-<br>
+
+### Promo Photos
+<p float="left">
+  <img src="Promo_open.png" width="300"/>
+  <img src="Promo_sides.png" width="300"/>
+</p>
 credit: gpd
 <br>
+### Scans
+<img src="bottom.jpg" width="300" />
+<p float="left">
+  <img src="back.jpg" width="300" /> 
+  <img src="left.jpg" width="300" />
+  <img src="right.jpg" width="300" />
+</p>
+credit: djpm05 on GPD's discord
+
+### Inside Photos
 <img src="Inside.jpg"/>
-<br>
 credit: NotebookCheck.net
 
