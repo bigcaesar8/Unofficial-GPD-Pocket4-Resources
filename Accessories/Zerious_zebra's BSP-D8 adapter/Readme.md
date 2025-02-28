@@ -6,7 +6,7 @@ Since there are no native locating features explicitly built into the shell of t
 I have not seen any deformation to the shell of mine through days of testing but I can't guarantee that it will never happen, use at your own risk.
 
 <p float="left">
-  <img src="v1/v1_upclose.png" width="100" />
-  <img src="v1/v1_back.png" width="100" /> 
-  <img src="v1/v1_action.png" width="100" />
+  <img src="V1/v1_upclose.png" width="100" />
+  <img src="V1/v1_back.png" width="100" /> 
+  <img src="V1/v1_action.png" width="100" />
 </p>
