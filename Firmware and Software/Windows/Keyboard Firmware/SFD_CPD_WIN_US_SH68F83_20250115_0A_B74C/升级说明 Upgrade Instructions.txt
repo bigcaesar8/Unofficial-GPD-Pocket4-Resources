@@ -1,0 +1,31 @@
+升级说明:
+
+此次 Pocket 4 键盘固件，增加了键盘灯常亮功能，也就是键盘灯可以有三种状态：熄灭 ————> 亮30秒自动熄灭 ————> 常亮。切换键是 Fn+空格键，当首次进入系统时，键盘灯处于“亮30秒自动熄灭”状态，组合键切换一次就是常亮，再次切换是“熄灭”。
+
+
+升级步骤：
+
+第一步：下载并解压缩；
+
+第二步：打开 hailuck_keyboard_update_tool_for_68f83.exe；
+
+第三步：点击黄色按键 “Start” 开始升级，直到进度条到底，Start 按键变绿色，表示升级成功；
+
+第四步：此时，键盘处于失效状态，重新启动系统生效。
+
+
+————————————————————————————————————————————————————————————————————————————————————
+
+
+Upgrade Instructions:
+
+The firmware update for the Pocket 4 keyboard adds a keyboard backlight feature, allowing for three states: Off ————> On for 30 seconds and then automatically off ————> Always On. The switch is done using the Fn + Spacebar key combination. When the system is first entered, the keyboard backlight is in the “On for 30 seconds and automatically off” state. Pressing the key combination once switches it to Always On, and pressing it again switches it to Off.
+
+
+Upgrade Steps:
+
+1. Download and extract the files.
+2. Open hailuck_keyboard_update_tool_for_68f83.exe.
+3. Click the yellow button “Start” to begin the upgrade; wait until the progress bar completes, and the Start button turns green to indicate a successful upgrade.
+4. At this point, the keyboard will be inoperative; restart the system for the changes to take effect.
+
