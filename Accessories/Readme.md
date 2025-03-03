@@ -36,3 +36,14 @@ It is matte, has a camera notch, and doesn't produce any rainbowing.
 > Fits but the camera notch will be wrong
 
 I've used this personally. It looks great but you'll have to live with the camera notch being in the wrong possition
+
+## Thermals
+> [!IMPORTANT]
+> Re-doing thermal paste should not void your warranty as long as you don't break anything*
+
+According to [u/kendyzhu on reddit](https://www.reddit.com/user/kendyzhu/), re-doing the thermal paste won't void your warranty as long as you don't break anything.  
+<img src="photos/warranty.png" width="300" /> 
+
+*Source:  
+[here](https://old.reddit.com/r/gpdwin/comments/1inmwm8/the_difference/mccmsg6/)  
+This is not advise or encuragement, do at your own risk
