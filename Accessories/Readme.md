@@ -5,7 +5,7 @@
 ### Zerious_Zebra's BSP_D8 Adapter
 
 Used to attach the BSP_D8 controllers to the Pocket4.  
-Included in this directory
+[Included in this directory](https://github.com/Streetlamp123/Unofficial-GPD-Pocket4-Resources/tree/main/Accessories/Zerious_zebra's%20BSP-D8%20adapter)
 <br>
 Credit: Zerious_Zebra on GPD Discord
 <br>
