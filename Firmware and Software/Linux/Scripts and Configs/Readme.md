@@ -1,6 +1,6 @@
 # Scripts and Configs for Linux
 
-## Sound Config
+## Bryan Ames' Sound Config
 
 Get it: in this directory
 What it does:  
