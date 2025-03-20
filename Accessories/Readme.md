@@ -20,6 +20,16 @@ Used to attach joycons to the Pocket4.
   <img src="photos/djpm05_joycon1.jpg" width="300" /> 
 </p>
 
+## Skins
+
+Cut your own vinyl skins for your pocket4!  
+[Included in this directory](https://github.com/Streetlamp123/Unofficial-GPD-Pocket4-Resources/tree/main/Accessories/Pocket4Skin)
+<br>
+Credit: Alather on GPD Discord
+<br>
+<img src="Pocket4Skin/IMG_6826.JPEG" width="300" />
+<img src="Pocket4Skin/IMG_6821.JPEG" width="300" />
+
 ## Screen Protectors
 
 ### Matte
