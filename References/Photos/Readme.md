@@ -35,5 +35,5 @@ credit: iinfamousaznn on GPD's discord
 <br>  
 <br>  
 <img src="iinfamousaznn_heatsink_flipped_and_cropped.jpg"/>
-The model number on the fan is: B65D8HA22H5
+The model number on the fan is: B65D8HA22H5  
 credit: iinfamousaznn on GPD's discord (rotated and cropped by Streetlamp - original in this directory)  
