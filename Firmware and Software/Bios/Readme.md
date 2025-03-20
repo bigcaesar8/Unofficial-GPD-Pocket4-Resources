@@ -9,6 +9,6 @@ As always, be careful when downloading and flashing software from 3rd party sour
 <br>
 
 > [!TIP]
-> Pressing ALT+F5 will unhide some hidden settings.  
+> Pressing ALT+F5 while in the bios will unhide some hidden settings.  
 > Remember to reboot your device after pressing to have them show up   
 > (thanks @STA Richtofen on GPD discord)
