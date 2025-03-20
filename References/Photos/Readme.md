@@ -34,5 +34,5 @@ credit: iinfamousaznn on GPD's discord
 credit: iinfamousaznn on GPD's discord  
 <br>  
 <br>  
-<img src="iinfamousaznn_heatsink.jpg"/>
-credit: iinfamousaznn on GPD's discord  
+<img src="iinfamousaznn_heatsink_flipped_and_cropped.jpg"/>
+credit: iinfamousaznn on GPD's discord (rotated and cropped by Streetlamp - original in this directory)  
