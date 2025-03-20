@@ -19,5 +19,20 @@ credit: djpm05 on GPD's discord
 
 ### Inside Photos
 <img src="Inside.jpg"/>
-credit: NotebookCheck.net
-
+credit: NotebookCheck.net  
+<br>  
+<br>  
+<img src="iinfamousaznn_internal_1.jpg"/>
+credit: iinfamousaznn on GPD's discord  
+<br>  
+<br>  
+<img src="iinfamousaznn_internal_2.jpg"/>
+credit: iinfamousaznn on GPD's discord
+<br>  
+<br>  
+<img src="iinfamousaznn_bare_board.jpg"/>
+credit: iinfamousaznn on GPD's discord  
+<br>  
+<br>  
+<img src="iinfamousaznn_heatsink.jpg"/>
+credit: iinfamousaznn on GPD's discord  
