@@ -1,0 +1,9 @@
+Offsetting curve optimizer stably with Ryzenadj by -15 and -20 so far.
+Anecdotally it seems to save me at least a watt under normal conditions.  Which is about an addtl 10% of battery life. 
+
+For Linux it's just Ryzenadj and maybe Smokeless (which I haven't touched yet)
+It's undocumented, but to do negative offset you need to do subtract your offset from the hex number 0x100000 (for example 0x100000 - 15) to get the uint32 number (0xFFFF1) needed for a -15 negative value you want on set-coall which only accepts u32. 
+
+$ sudo ryzenadj --set-coall=0xFFFF1
+
+And if you want to go back to default values then just set-coall back to 0x100000 or restart.
