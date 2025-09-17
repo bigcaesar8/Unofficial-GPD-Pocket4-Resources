@@ -17,3 +17,10 @@ What it does:
   - Alsa config
   - A screen+touchscreen auto-rotation script 
 
+## Big Caesar's Odd Bits
+What it does:
+  - 3c.json...Input Remapper Preset to emulate 3 finger middle click for touchpad
+  - Easy Effect Microphone Preset... Input filter for Easy effects that solves all microphone noise and makes it clear and very useable.
+  - Fix Speaker Crackling... a pipeware quantum command, removes speaker crackling at high loads
+  - Unervolting with Ryzenadj...Correct way to configure Ryzenadj to undervolt with stable tested presets
+  - pocket4alt.json...Credit to Bryan Ames, modified compressor version, sounds better to my ear
