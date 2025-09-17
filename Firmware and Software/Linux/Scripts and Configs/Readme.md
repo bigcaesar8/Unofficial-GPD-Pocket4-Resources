@@ -17,3 +17,5 @@ What it does:
   - Alsa config
   - A screen+touchscreen auto-rotation script 
 
+## Big Caesar's linux odd bits
+
