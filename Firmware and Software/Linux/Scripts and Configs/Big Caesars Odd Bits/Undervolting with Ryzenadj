@@ -7,3 +7,7 @@ It's undocumented, but to do negative offset you need to do subtract your offset
 $ sudo ryzenadj --set-coall=0xFFFF1
 
 And if you want to go back to default values then just set-coall back to 0x100000 or restart.
+
+I have seen people claiming stable offest to -40 on HX370. 
+
+Need to set iomem=relaxed in kernel parameters and secure boot off.
